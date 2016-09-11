@@ -1,0 +1,18 @@
+{
+  "name": "dewan-fb",
+  "main": "./lib/dewan-fb",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "dewan-fb:toggle"
+  },
+  "repository": "https://github.com/atom/dewan-fb",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

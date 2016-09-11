@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle dewan-fb",
+        "command": "dewan-fb:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "dewan-fb",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "dewan-fb:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
